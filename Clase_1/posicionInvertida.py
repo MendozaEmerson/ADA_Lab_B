@@ -1,5 +1,6 @@
 #Mendoza Hilasaca Emerson Danny
 #20190631
+#Ejercicio 2
 
 #Funcion que toma un arreglo y devuelve otro con los valores en posiciones invertidas
 def inve(array):

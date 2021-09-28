@@ -1,5 +1,6 @@
 #Mendoza Hilasaca Emerson Danny
 #20190631
+#Ejercicio 1
 
 #Funcion que suma los valores de un arreglo
 def sum(array):

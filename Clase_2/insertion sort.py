@@ -1,4 +1,8 @@
-def insertion(array):
+#Mendoza Hilasaca Emerson Danny
+#20190631
+#Ejercicio 1
+
+def insertion(array):    
     j = 0
     while j < len(array):
         key = array[j]

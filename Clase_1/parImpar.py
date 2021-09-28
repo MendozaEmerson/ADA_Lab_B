@@ -1,5 +1,6 @@
 #Mendoza Hilasaca Emerson Danny
 #20190631
+#Ejercicio 3
 
 #Funcion que toma un arreglo y devuelve dos arreglos un con valores pares y otro con impares del arreglo tomado
 def div(array):

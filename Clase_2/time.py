@@ -1,4 +1,8 @@
-import time
+
+#Mendoza Hilasaca Emerson Danny
+#20190631
+#Ejercicio 3
+from timeit import default_timer
 
 def ntime(array, answer):
     length = len(array)
@@ -8,7 +12,9 @@ def ntime(array, answer):
     return False
 
 array = (range(300))
-if ntime(array, 234) == True:
-    tiempo = time.process_time()
+inicio = default_timer()
+ntime(array, 231)
+fin = default_timer()
 
-print(tiempo)
+tiempo = fin - inicio
+print(tiempo )

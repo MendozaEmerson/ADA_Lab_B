@@ -1,3 +1,8 @@
+
+#Mendoza Hilasaca Emerson Danny
+#20190631
+#Ejercicio 2
+
 def search(array, entero):
     for x in array:
         if x == entero:

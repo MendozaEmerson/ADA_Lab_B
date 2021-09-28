@@ -1,5 +1,7 @@
 #Mendoza Hilasaca Emerson Danny
 #20190631
+#Ejercicio 6
+
 #Funcion que toma un valor numerico y un string para imprimir el string en un marco con espacios igual al valor numerico
 def marco(word, entero):
  c1 = ((len(word)* entero) + 4) * '*' + "\n"

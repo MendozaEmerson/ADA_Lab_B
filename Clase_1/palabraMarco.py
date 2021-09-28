@@ -1,5 +1,7 @@
 #Mendoza Hilasaca Emerson Danny
 #20190631
+#Ejercicio 5
+
 #Funcion que toma una palabra e imprime la misma en un marco
 def text(word):
   cab = (len(word) + 4) * '*' + "\n"#cabezeras del marco
